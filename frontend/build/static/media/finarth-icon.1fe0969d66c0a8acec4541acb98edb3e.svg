@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <g fill="#0A84FF" fill-rule="nonzero">
+    <!-- stylized rupee symbol -->
+    <path d="M22 14h20v4H22v6h16c2.2 0 4 1.8 4 4 0 2.2-1.8 4-4 4H22v6h12v4H22c-2.2 0-4-1.8-4-4V18c0-2.2 1.8-4 4-4z"/>
+    <!-- three bars to represent growth -->
+    <rect x="46" y="28" width="4" height="8" rx="1" />
+    <rect x="50" y="22" width="4" height="14" rx="1" />
+    <rect x="54" y="18" width="4" height="18" rx="1" />
+  </g>
+</svg>

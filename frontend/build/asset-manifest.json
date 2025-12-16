@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c87e60a.css",
+    "main.js": "/static/js/main.72593925.js",
+    "static/js/453.de24ee89.chunk.js": "/static/js/453.de24ee89.chunk.js",
+    "index.html": "/index.html",
+    "static/media/finarth-icon.svg": "/static/media/finarth-icon.1fe0969d66c0a8acec4541acb98edb3e.svg",
+    "static/media/logout-icon.svg": "/static/media/logout-icon.4dc57bb9124ba9cce24eb1f57ff6658b.svg",
+    "main.6c87e60a.css.map": "/static/css/main.6c87e60a.css.map",
+    "main.72593925.js.map": "/static/js/main.72593925.js.map",
+    "453.de24ee89.chunk.js.map": "/static/js/453.de24ee89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c87e60a.css",
+    "static/js/main.72593925.js"
+  ]
+}
